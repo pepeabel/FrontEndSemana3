@@ -1,0 +1,126 @@
+.container-fluid {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    display:flex;
+    padding-top: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    color: #6B7991;
+}
+
+
+.firstCol{
+    width: 40%;
+    padding-left: 5%;
+    color: #3757D5;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.secondCol{
+    width: 40%;
+}
+
+.ThirdCol{
+    width: 20%;
+}
+
+.listHorizontal{
+
+    display: inline-flex;
+    list-style: none;
+   font-size:large;
+    vertical-align: top;
+}
+
+ul.navega li {
+    display: inline;
+}
+
+.hoax{
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: large;
+    background-color: #3757D5;
+    color:white;
+    border-radius: 5px;
+    line-height: 0px;
+    border-color:transparent;
+    
+}
+
+
+.fight{
+    height: 700px;
+    display: flex;
+    
+}
+
+.fightLeft{
+  width: 50%;
+
+}
+
+
+.fightRigth{
+    background: linear-gradient(#0899E6,#3760DA);
+    width: 50%;
+    text-align: center;
+    align-content:stretch;
+}
+
+.fighVac{
+padding-left: 100px;
+
+}
+
+.fontVac{
+    font-size: 48px;
+    color: #18396E;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+
+.fontVacMedium{
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #BCC3CE;    
+    font-weight:400;
+}
+
+.icons{
+    color:#697DA0;
+    font-size: 14px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.schedule{
+    font-size: 22px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #18396E;    
+    font-weight:600;
+}
+
+.triangulo {
+    width: 0; 
+     height: 0; 
+     margin-left: -50px !important;
+     border-top: 55px solid #F4F6FB;
+     border-left: 65px solid transparent;
+     border-right: 65px solid transparent;
+     border-bottom: 5px solid transparent; 
+}
+
+.trianguloMedio{
+    width: 0; 
+    height: 0; 
+    margin-top: 280px;
+    border-right: 130px solid #F4F6FB;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent; 
+    float: right;
+}
